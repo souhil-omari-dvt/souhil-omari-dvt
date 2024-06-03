@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @souhil-omari-dvt
 - 👀 I’m interested in DevOps and Cloud
-- 🌱 I’m currently learning /
-- 💞️ I’m looking to collaborate on /
+- 🌱 I’m currently learning Platform Engineering
+- 💞️ I’m looking to collaborate on Real Projects
 - 📫 How to reach me : souhil.omari@devoteam.com
 - 😄 Pronouns: Souhil
 - ⚡ Fun fact: /
